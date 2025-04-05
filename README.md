@@ -72,7 +72,7 @@ A full-stack Car Rental web application built using **HTML, CSS, JavaScript (Fro
     Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
 ### Contact
-    For any questions or suggestions, please contact sakshijainmorena@gmailcom
+    For any questions or suggestions, please contact sakshijainmorena@gmail.com.
 
 
     
