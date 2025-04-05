@@ -56,7 +56,7 @@ A full-stack Car Rental web application built using **HTML, CSS, JavaScript (Fro
    $conn = new mysqli("localhost:3307", "root", "", "carrental");
    
 6. **Open the project in browser:**
-    http://localhost/car-rental/
+    http://localhost/carrental/
 ### Screenshots
     ![Home Page](https://github.com/user-attachments/assets/bfab94ae-612b-4665-a830-49fe0b62065c)
     ![CAR LISTING](https://github.com/user-attachments/assets/69113e58-b2a3-4817-98e1-640001172c98)
