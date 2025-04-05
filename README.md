@@ -60,7 +60,7 @@ A full-stack Car Rental web application built using **HTML, CSS, JavaScript (Fro
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](https://github.com/SAKSHIJAIN123-MCA/carrental/blob/main/assets/images/Home%20page.png?raw=true)
+![Home Page](https://github.com/SAKSHIJAIN123-MCA/carrental/blob/main/assets/images/Home%20Page.png?raw=true)
 
 ### 🆕 Recently Listed Cars
 ![Recently Listed Cars](https://github.com/SAKSHIJAIN123-MCA/carrental/blob/main/assets/images/Recently%20listed%20cars.png?raw=true)
