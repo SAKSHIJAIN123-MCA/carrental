@@ -1,19 +1,21 @@
 <?php 
-// Check if running on Render (production) or Localhost
-if (getenv('RENDER')) {
-    // Render environment: use environment variables
-    define('DB_HOST', getenv('DB_HOST'));
-    define('DB_PORT', getenv('DB_PORT') ?: '3306');
-    define('DB_USER', getenv('DB_USER'));
-    define('DB_PASS', getenv('DB_PASS'));
-    define('DB_NAME', getenv('DB_NAME'));
-} else {
+$serverName = $_SERVER['SERVER_NAME'];
+
+if ($serverName === 'localhost') {
     // Local XAMPP environment
     define('DB_HOST', 'localhost');
     define('DB_PORT', '3307');
     define('DB_USER', 'root');
     define('DB_PASS', '');
     define('DB_NAME', 'carrental');
+
+} else {
+    // Live InfinityFree environment
+    define('DB_HOST', 'sql311.infinityfree.com');
+    define('DB_PORT', '3306');
+    define('DB_USER', 'if0_38684133');
+    define('DB_PASS', 'i0zm1G2n8FdWnN');
+    define('DB_NAME', 'if0_38684133_carrental');
 }
 
 try {
