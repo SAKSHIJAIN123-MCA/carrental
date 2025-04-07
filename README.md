@@ -57,10 +57,16 @@ A full-stack Car Rental web application built using **HTML, CSS, JavaScript (Fro
    
 6. **Open the project in browser:**
     http://localhost/carrental/
-### Screenshots
-    ![Home Page](https://github.com/user-attachments/assets/bfab94ae-612b-4665-a830-49fe0b62065c)
-    ![CAR LISTING](https://github.com/user-attachments/assets/69113e58-b2a3-4817-98e1-640001172c98)
-    ![Recently listed cars](https://github.com/user-attachments/assets/cf0b591d-4179-4f78-841f-eaf44a017749)
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](https://github.com/SAKSHIJAIN123-MCA/carrental/blob/main/assets/images/Home%20Page.png?raw=true)
+
+### 🆕 Recently Listed Cars
+![Recently Listed Cars](https://github.com/SAKSHIJAIN123-MCA/carrental/blob/main/assets/images/Recently%20listed%20cars.png?raw=true)
+
+### 🚘 Car Listing Page
+![Car Listing](https://github.com/SAKSHIJAIN123-MCA/carrental/blob/main/assets/images/CAR%20LISTING.png?raw=true)
 
 ### Contributing
     Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
